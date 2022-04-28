@@ -1,0 +1,23 @@
+:root{
+--theme1: #17C7CB;
+--theme2: #9CDBBD;
+--theme3: #F3E29C;
+--theme4: #F4AD4E;
+--theme5: #FA8562;
+}
+
+.theme1{
+    background-color: var(--theme1);
+}
+.theme2{
+    background-color: var(--theme2);
+}
+.theme3{
+    background-color: var(--theme3);
+}
+.theme4{
+    background-color: var(--theme4);
+}
+.theme5{
+    background-color: var(--theme5);
+}
