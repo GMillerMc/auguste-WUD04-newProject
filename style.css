@@ -6,6 +6,10 @@
 --theme5: #FA8562;
 }
 
+.carousel-inner > .item > img {
+    height:360px;
+  }
+
 .theme1{
     background-color: var(--theme1);
 }
